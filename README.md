@@ -1,3 +1,4 @@
+![Binary Clock](https://github.com/KyomaHooin/binary_clock/raw/master/binary_clock_screen.jpg "screenshot")
 
 DESCRIPTION
 
