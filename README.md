@@ -8,7 +8,7 @@ FILE
 
 <pre>
 binary_clock.ino - Main program.
-           Time/ - Time library by Michael Margolis.
+        Time.zip - Time library by Michael Margolis.
 </pre>
 
 CONTACT
