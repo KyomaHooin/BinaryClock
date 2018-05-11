@@ -11,7 +11,7 @@ binary_clock.ino - Main program.
         Time.zip - Time library by Michael Margolis.
 </pre>
 
-CONTACT
+SOURCE
 
-Source: https://github.com/KyomaHooin/binary_clock
+https://github.com/KyomaHooin/binary_clock
 
